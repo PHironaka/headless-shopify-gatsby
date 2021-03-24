@@ -11,6 +11,6 @@
 [template.environment]
   SHOPIFY_ACCESS_TOKEN = "Shopify Access Token"
   GATSBY_SHOPIFY_ACCESS_TOKEN = "Gatsby Shopify Access Token"
-  SHOP_NAME="Yourshopifyname.myshopify.com"
-  SHOPIFY_DOMAIN="URL FOR SHOPIFY"
-  GATSBY_SHOPIFY_DOMAIN="URL FOR SHOPIFY"
+  SHOP_NAME="Store Name"
+  SHOPIFY_DOMAIN="Yourshopifyname.myshopify.com"
+  GATSBY_SHOPIFY_DOMAIN="Yourshopifyname.myshopify.com"
