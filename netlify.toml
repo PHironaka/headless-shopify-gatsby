@@ -1,0 +1,5 @@
+[template]
+  incoming-hooks = ["Shopify"]
+  
+[template.environment]
+  SECRET_TOKEN = "change me for your secret token"
