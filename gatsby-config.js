@@ -46,7 +46,6 @@ module.exports = {
     
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sitemap`,
-    `gatsby-plugin-robots-txt`,
     `gatsby-plugin-sharp`,
     // `gatsby-plugin-layout`,
     {
