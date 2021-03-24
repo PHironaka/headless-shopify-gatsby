@@ -17,6 +17,7 @@
     "gatsby-plugin-layout": "^1.0.11",
     "gatsby-plugin-mailchimp": "^5.2.2",
     "gatsby-plugin-manifest": "^2.2.23",
+    "gatsby-plugin-no-index": "^1.0.2",
     "gatsby-plugin-offline": "^3.0.16",
     "gatsby-plugin-react-helmet": "^3.1.13",
     "gatsby-plugin-robots-txt": "^1.5.5",

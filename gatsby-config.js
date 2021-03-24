@@ -69,6 +69,8 @@ module.exports = {
       },
     },
 
+    `gatsby-plugin-no-index`,
+
     {
       resolve: 'gatsby-plugin-mailchimp',
       options: {
