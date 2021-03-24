@@ -85,7 +85,6 @@ module.exports = {
         verbose: true,
       },
     },
-
     'gatsby-plugin-offline',
   ],
 }
