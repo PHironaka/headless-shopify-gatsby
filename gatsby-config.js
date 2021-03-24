@@ -7,10 +7,10 @@ require('dotenv').config({
 module.exports = {
   siteMetadata: {
     title: `Headless Shopify Simple`,
-    siteUrl: `https://hironaka.works`,
-    description: `Pete Hironaka (1927-2015) was a cartoonist and commercial artist who documented the Japanese American experience in a post-WWII America.`,
-    image: `https://www.hironaka.works/static/ebde7a9d7fd8d9be2edfbbf8e36e9f11/04759/GrandpaGrandma_bw_page-001.jpg`,
-    author: `Pete Hironaka`,
+    siteUrl: `https://headless-shopifysimple.app`,
+    description: `Some text about shopify gatsby simple demo.`,
+    image: `https://peterhironaka.com/favicons/android-chrome-512x512.png`,
+    author: `Peter Hironaka`,
     menuLinks: [
       {
         name: 'Home',
